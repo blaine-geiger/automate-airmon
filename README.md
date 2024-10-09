@@ -1,4 +1,4 @@
-# Automate airmon-ng
+# Automating airmon-ng
 
 ## Description
 This script project automates many of the lines of code and configuration needed to activate a Wi-Fi adapter in Kali Linux and cause it to enter Wi-Fi monitoring (passive sniffing). 
