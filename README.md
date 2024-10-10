@@ -1,6 +1,6 @@
 # Automating airmon-ng
 
-[Here is the script](https://github.com/blaine-geiger/automate-airmon/blob/3ad9ea8e4f90689b05adba1e046b33a0443ecb06/start_airmon.sh)
+<!--[Here is the script](https://github.com/blaine-geiger/automate-airmon/blob/3ad9ea8e4f90689b05adba1e046b33a0443ecb06/start_airmon.sh)-->
 
 ## Description
 This script project automates many of the lines of code and configuration needed to activate a Wi-Fi adapter in Kali Linux and cause it to begin passively sniffing surrounding Wi-Fi (airmon-ng).
