@@ -27,7 +27,7 @@ of hidden APs by simply waiting for new devices to join them (association) or th
 ## Script Usage
 
 Simply save the script in Mousepad or another text editor in Kali Linux. Then open a terminal. There is no need for a root terminal because the script contains the 'sudo' commands where they are
-needed. Navigate to the directory where the script has been saved and type <b><i>chmod +x start_airmon.sh</i></b>  which will make the script executable. Now, in the same terminal window type<i> ./start_airmon.sh</i>
+needed. Navigate to the directory where the script has been saved and type <b><i>chmod +x start_airmon.sh</i></b>  which will make the script executable. Now, in the same terminal window type <b><i> ./start_airmon.sh</i></b>
 
 
 
