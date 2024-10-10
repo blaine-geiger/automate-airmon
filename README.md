@@ -6,13 +6,13 @@ This includes:
 - Assigning the interface
 - Killing other processes that may interfere
 - Bringing the interface down
-- Changing the MAC address of the interface to a random MAC (obfuscation)
+- Changing the MAC address (using macchanger) of the interface to a random MAC (obfuscation)
 - Bringing the interface back up
 - Running a check to ensure the interface is in monitor mode
 - Prompting the user for input to confirm the initiation of airmon-ng
 - Initiating airmon-ng for passive Wi-Fi sniffing
 
-If we are in monitor mode and we run airmon-ng, we are now passively sniffing Wi-Fi traffic. Nearby Wi-FI Access Points will be revealed. We can even discover the names (SSIDs) 
+If we are in monitor mode and we run airmon-ng, we are now passively sniffing Wi-Fi traffic. Nearby Wi-Fi Access Points and their associated devices will be revealed. We can even discover the names (SSIDs) 
 of hidden APs by simply waiting for new devices to join them (association) or through other "active attacks" (deauthentication). We won't cover those details here.
 
 ## Languages and Utilities
