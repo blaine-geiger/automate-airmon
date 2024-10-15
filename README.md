@@ -29,9 +29,14 @@ even hidden SSIDs can be discoverd.
 
 ## Script Usage
 
-Simply save the script in Mousepad or another text editor in Kali Linux. Then open a terminal. There is no need for a root terminal because the script contains the 'sudo' commands where they are
-needed. Navigate to the directory where the script has been saved and type <b><i>chmod +x start_airmon.sh</i></b>  which will make the script executable. Now, in the same terminal window type <b><i> ./start_airmon.sh</i></b>
-
+Script Usage:
+1. Save the Script: Open Mousepad (or another text editor) in Kali Linux, paste the script content, and save it with the filename `start_airmon.sh`.
+2. Open a Terminal: Navigate to the directory where you saved the script.
+3. Make the Script Executable:
+ - `chmod +x start_airmon.sh`
+4. Run the script: In the same terminal window, type:
+ - `./start_airmon.sh`
+> **Note**: There is no need to open a root terminal, because the script uses `sudo` for commnads requiring root permissions.
 
 
 <!--
