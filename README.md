@@ -19,12 +19,12 @@ of hidden APs by simply waiting for new devices to join them (association) or th
 
 ## Languages and Utilities
 
-- <b>Bash</b>
-- <b>PowerShell</b> 
+- Bash
+- Network Utilities: airmon-ng, macchanger, iwconfig, airodump-ng
 
-## Environments Used
+## Environment
 
-- #### Kali Linux
+- Kali Linux
 
 ## Script Usage
 
