@@ -16,7 +16,7 @@ Key Features:
 Once we are in monitor mode, running `airodump-ng` passively captures Wi-Fi traffic from nearby networks. Surrounding Wi-Fi Access Points within range and their associated devices will be revealed. By monitoring associations,
 even hidden SSIDs can be discoverd.
 
-> **Note**: This script is a learning projecct to automate a simple task. It sets up passive sniffing but does not cover active attacks such as deauthentication. It may expanded further in the future. 
+> **Note**: This script is a learning project to automate a simple task. It sets up passive sniffing but does not cover active attacks such as deauthentication. It may expanded further in the future. 
 
 ## Languages and Utilities
 
