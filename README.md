@@ -38,7 +38,7 @@ Script Usage:
  - `chmod +x start_airmon.sh`
 4. Run the script: In the same terminal window, type:
  - `./start_airmon.sh`
-> **Note**: There is no need to open a root terminal, because the script uses `sudo` for commnads requiring root permissions.
+> **Note**: There is no need to open a root terminal, because the script uses `sudo` for commands requiring root permissions.
 
 
 <!--
